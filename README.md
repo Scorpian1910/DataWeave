@@ -66,3 +66,13 @@ pip install -r requirements.txt
 
 # Start the FastAPI server
 uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+
+---
+
+## 🧭 Workflow Preview
+
+![Screenshot 2025-06-18 182244](https://github.com/user-attachments/assets/89347105-b972-45a9-9ca0-3814ee5f7610)
+
+![Screenshot 2025-06-18 182509](https://github.com/user-attachments/assets/eb8fed49-6007-45ae-8950-aea46ba32429)
+
+
