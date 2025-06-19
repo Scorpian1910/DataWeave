@@ -74,12 +74,12 @@ Here’s how DataWeave works in action:
 
 ### 🖼️ Visual Element Selection
 
-![](https://raw.githubusercontent.com/Scorpian1910/DataWeave/main/frontend/public/assets/DataWeave-Img1.png)
+![](https://raw.githubusercontent.com/Scorpian1910/DataWeave/refs/heads/main/frontend/public/assets/DataWeave-Img1.png)
 
 
 ### 🔍 Data Preview & Scraping Results
 
-![](https://raw.githubusercontent.com/Scorpian1910/DataWeave/main/frontend/public/assets/DataWeave-Img2.png)
+![](https://raw.githubusercontent.com/Scorpian1910/DataWeave/refs/heads/main/frontend/public/assets/DataWeave-Img2.png)
 
 
 
