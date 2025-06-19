@@ -74,11 +74,11 @@ Here’s how DataWeave works in action:
 
 ### 🖼️ Visual Element Selection
 
-![Visual Selector Demo](./public/assets/DataWeave-Img 1.png)
+![](./public/assets/DataWeave-Img1.png)
 
 ### 🔍 Data Preview & Scraping Results
 
-![Scraping Results Demo](./public/assets/DataWeave-Img2.png)
+![](./public/assets/DataWeave-Img2.png)
 
 
 
