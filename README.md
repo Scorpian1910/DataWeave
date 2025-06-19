@@ -126,12 +126,6 @@ DataWeave/
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🙌 Contributing
 
 Pull requests are welcome! If you’d like to suggest features or report bugs, please open an [issue](https://github.com/Scorpian1910/DataWeave/issues).
