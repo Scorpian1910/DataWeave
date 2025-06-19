@@ -1,8 +1,3 @@
-Absolutely! Here's a **rewritten and polished version** of your `README.md` for a more professional, engaging, and user-friendly presentation on GitHub:
-
----
-
-````markdown
 # 🧬 DataWeave – A Visual Web Scraper
 
 > A powerful, intuitive tool that lets you **visually extract data** from any webpage using XPath selectors — no coding required!
