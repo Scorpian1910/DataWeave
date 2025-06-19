@@ -4,3 +4,9 @@ selenium
 webdriver-manager
 pydantic
 python-multipart
+fastapi
+uvicorn
+selenium
+pydantic
+webdriver-manager
+requests
