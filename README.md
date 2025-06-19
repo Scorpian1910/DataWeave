@@ -74,7 +74,7 @@ Here’s how DataWeave works in action:
 
 ### 🖼️ Visual Element Selection
 
-![](./frontend/public/assets/DataWeave-Img1.png)
+![]([./frontend/public/assets/DataWeave-Img1.png](https://github.com/Scorpian1910/DataWeave/blob/main/frontend/public/assets/DataWeave-Img1.png?raw=true))
 
 ### 🔍 Data Preview & Scraping Results
 
